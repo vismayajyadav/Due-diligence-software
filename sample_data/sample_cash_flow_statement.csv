@@ -1,0 +1,27 @@
+Account,2023,2022,2021,2020
+Cash Flow from Operating Activities,,
+Net Income,2870000,3300000,3325000,3486000
+Adjustments to Reconcile Net Income,,
+Depreciation and Amortization,3200000,2800000,2500000,2300000
+Stock-based Compensation,850000,750000,680000,620000
+Changes in Operating Assets and Liabilities,,
+(Increase) Decrease in Accounts Receivable,-3100000,-2200000,-700000,-1000000
+(Increase) Decrease in Inventory,-2300000,-700000,-500000,-500000
+Increase (Decrease) in Accounts Payable,500000,500000,500000,500000
+Increase (Decrease) in Accrued Expenses,200000,300000,300000,200000
+Net Cash Provided by Operating Activities,2220000,4750000,5605000,5606000
+Cash Flow from Investing Activities,,
+Purchase of Property and Equipment,-6000000,-5000000,-4000000,-3500000
+Purchase of Short-term Investments,-700000,-300000,-300000,-200000
+Net Cash Used in Investing Activities,-6700000,-5300000,-4300000,-3700000
+Cash Flow from Financing Activities,,
+Proceeds from Short-term Debt,1000000,1000000,500000,500000
+Repayment of Short-term Debt,-500000,-500000,-300000,-300000
+Proceeds from Long-term Debt,2000000,1500000,1000000,1000000
+Repayment of Long-term Debt,-1000000,-500000,-500000,-500000
+Dividends Paid,-1190000,-1000000,-1000000,-1000000
+Net Cash Provided by (Used in) Financing Activities,310000,1500000,-300000,-300000
+Net Increase (Decrease) in Cash,-3170000,950000,1005000,1606000
+Cash at Beginning of Period,8500000,7800000,6500000,4894000
+Cash at End of Period,5330000,8750000,7505000,6500000
+
