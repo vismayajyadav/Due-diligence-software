@@ -1,0 +1,5 @@
+# Notes on AI Models
+
+- **Pre-trained Models:** No specific pre-trained models (e.g., `.pkl` or `.joblib` files for scikit-learn) were generated or saved during the initial development or recreation process. The current implementation relies on statistical methods and standard library functions, or requires libraries like scikit-learn, statsmodels, etc., to be installed at runtime.
+- **NLP Models:** The unstructured analysis modules (`news_analysis_module.py`, `interview_analysis_module.py`) currently use basic keyword spotting. Placeholders for integrating more advanced NLP models (like sentiment analysis using VADER or TextBlob, or potentially transformer-based models for deeper understanding) are included in the comments. Integrating and potentially fine-tuning such models would be a next step for enhancing the unstructured analysis capabilities.
+- **Customization:** The provided modules serve as a foundation. Further development could involve training custom models on domain-specific data for improved accuracy in fraud detection or risk assessment.
